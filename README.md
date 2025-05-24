@@ -19,8 +19,8 @@
       background-position: center;
     }
     body * {
-  background-color: transparent;
-}
+      background-color: transparent;
+    }
     h1, h2 {
       color: #003366;
       padding: 5px;
@@ -43,10 +43,10 @@
       font-style: italic;
       padding: 10px;
     }
-    
   </style>
 </head>
-<div style="text-align: center; margin-bottom: 20px;">
+<body>
+  <div style="text-align: center; margin-bottom: 20px;">
   <img src="https://i.ibb.co/JdmMHPv/uncle-sam-pixel-art.png" alt="Uncle Sam 8-bit" style="max-width: 150px; display: block; margin: auto;">
   <p style="font-size: 1.5em; font-weight: bold; color: #b22234;">Sign up today to support Scouting and show your patriotism!</p>
 </div>
