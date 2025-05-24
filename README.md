@@ -47,7 +47,7 @@
 <body>
   <div style="text-align: center; margin-bottom: 20px;">
   <img src="https://i.imgur.com/15sUkO5.png" alt="Uncle Sam 8-bit" style="max-width: 150px; display: block; margin: auto; background-color: transparent;">
-  <p style="font-size: 1.5em; font-weight: bold; color: #b22234;">Sign up today to support Scouting and show your patriotism!</p>
+  <p style="font-size: 1.5em; font-weight: bold; color: #b22234;">Sign up today to support Scouting and youth leadership!</p>
 </div>
 <h1 style="text-align: center; font-family: 'Georgia', serif; font-size: 2.5em; color: #b22234;">
   🇺🇸 <span style="letter-spacing: 1px;">Flags Across America Program</span> 🇺🇸<br>
@@ -60,13 +60,21 @@
 
   <h2>What You Get:</h2>
   <ul>
-    <li>Flag placement at your home on 7 patriotic holidays</li>
+    <li>Flag placement at your home on these 7 holidays:</li>
+    <ul>
+      <li>Presidents Day</li>
+      <li>Memorial Day</li>
+      <li>Flag Day</li>
+      <li>Independence Day</li>
+      <li>Labor Day</li>
+      <li>Patriot Day (9/11)</li>
+      <li>Veterans Day</li>
+    </ul>
     <li>Support for youth leadership and development through Scouting</li>
     <li>Convenient payment and sign-up options</li>
   </ul>
 
-  <h2>📄 Download the Sign-Up Form</h2>
-<p style="text-align: center;">
+  <p style="text-align: center;">
   <a href="https://github.com/aaronbrownlee/helenflags1548/raw/main/Customer_Flag_Order_Form_Helen.pdf" target="_blank" style="font-size: 1.2em; background-color: #003366; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">
     Fill Out the Flag Subscription Form (PDF)
   </a>
