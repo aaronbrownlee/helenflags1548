@@ -65,7 +65,12 @@
     <li>Convenient payment and sign-up options</li>
   </ul>
 
-  
+  <h2>📄 Download the Sign-Up Form</h2>
+<p style="text-align: center;">
+  <a href="https://github.com/aaronbrownlee/helenflags1548/raw/main/Customer_Flag_Order_Form_Helen.pdf" target="_blank" style="font-size: 1.2em; background-color: #003366; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">
+    Fill Out the Flag Subscription Form (PDF)
+  </a>
+</p>
 
 
 <p style="text-align: center; font-size: 1em; color: #003366;">
