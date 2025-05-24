@@ -46,7 +46,7 @@
 </head>
 <body>
   <div style="text-align: center; margin-bottom: 20px;">
-  <blockquote class="imgur-embed-pub" lang="en" data-id="a/Z8IRagK" style="margin: auto; text-align: center;"><a href="//imgur.com/a/Z8IRagK">8bit Uncle Sam</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  <img src="https://i.imgur.com/ZkGuEFk.png" alt="Uncle Sam 8-bit" style="max-width: 150px; display: block; margin: auto;">
   <p style="font-size: 1.5em; font-weight: bold; color: #b22234;">Sign up today to support Scouting and show your patriotism!</p>
 </div>
 <h1 style="text-align: center; font-family: 'Georgia', serif; font-size: 2.5em; color: #b22234;">
