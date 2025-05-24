@@ -46,7 +46,7 @@
 </head>
 <body>
   <div style="text-align: center; margin-bottom: 20px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Unclesamwantyou.jpg/220px-Unclesamwantyou.jpg" alt="Uncle Sam" style="max-width: 150px; display: block; margin: auto;">
+  <img src="https://imgur.com/a/Z8IRagK" alt="Uncle Sam" style="max-width: 150px; display: block; margin: auto;">
   <p style="font-size: 1.5em; font-weight: bold; color: #b22234;">Sign up today to support Scouting and show your patriotism!</p>
 </div>
 <h1 style="text-align: center; font-family: 'Georgia', serif; font-size: 2.5em; color: #b22234;">
