@@ -46,11 +46,11 @@
 </head>
 <body>
   <div style="text-align: center; margin-bottom: 20px;">
-  <img src="https://i.imgur.com/15sUkO5.png" alt="Uncle Sam 8-bit" style="max-width: 150px; display: block; margin: auto;">
+  <img src="https://i.imgur.com/15sUkO5.png" alt="Uncle Sam 8-bit" style="max-width: 150px; display: block; margin: auto; background-color: transparent;">
   <p style="font-size: 1.5em; font-weight: bold; color: #b22234;">Sign up today to support Scouting and show your patriotism!</p>
 </div>
 <h1 style="text-align: center; font-family: 'Georgia', serif; font-size: 2.5em; color: #b22234;">
-  🇺🇸 <span style="letter-spacing: 1px;">Join the Flags Across America Program</span> 🇺🇸<br>
+  🇺🇸 <span style="letter-spacing: 1px;">Flags Across America Program</span> 🇺🇸<br>
   <span style="font-size: 1em; color: #003366;">Presented by Troop 1584</span>
 </h1>
   <p>We’re proud to offer flag subscriptions through <strong>BSA Troop 1584</strong>! For just <span class="highlight">$50</span>, you'll receive an American flag placed at your home on <span class="highlight">7 major holidays</span> throughout the year—all while supporting our local Scouts.</p>
@@ -65,11 +65,14 @@
     <li>Convenient payment and sign-up options</li>
   </ul>
 
-  <h2>How to Sign Up:</h2>
-  <ol>
-    <li>Request or receive the sign-up form</li>
-    <li>Submit your $50 payment using one of the methods below</li>
-  </ol>
+  
+
+<h2>📄 Download the Sign-Up Form</h2>
+<p style="text-align: center;">
+  <a href="https://github.com/aaronbrownlee/helenflags1548/raw/main/Customer_Flag_Order_Form_Helen.pdf" target="_blank" style="font-size: 1.2em; background-color: #003366; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none;">
+    Fill Out the Flag Subscription Form (PDF)
+  </a>
+</p>
 
   <div class="contact-box">
     <p><span class="highlight">Payment Options:</span><br>
